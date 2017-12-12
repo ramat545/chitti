@@ -1,3 +1,5 @@
+echo "chittiiiiiiiiiiiiiiiiiii"
+echo "kkkkk"
 echo "sucesss"
 echo "enter the string"
 for i in range[,2,3,4,5]
